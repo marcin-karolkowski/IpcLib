@@ -1,0 +1,3 @@
+add_subdirectory(ipc_test_receiver)
+add_subdirectory(ipc_test_sender)
+add_subdirectory(mathTool)
